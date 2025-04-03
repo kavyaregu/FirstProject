@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 server.port=8082
+=======
+server.port=8081
+>>>>>>> e6a4bf6d33f7b3ca1189967cf3180788deccdf4b
